@@ -7,10 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-<p align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhyeTI5anE3Zjl1eXRvMXpmaGpqa2QzMnF5bXBlNzdqYmdiaXpyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman coding" width="400" height="auto"/>
-
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhyeTI5anE3Zjl1eXRvMXpmaGpqa2QzMnF5bXBlNzdqYmdiaXpyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman coding" width="400" height="auto"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
